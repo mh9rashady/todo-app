@@ -22,13 +22,13 @@
 
 1. پروژه را clone کنید:
 ```bash
-git clone https://github.com/yourusername/todo-list.git
-cd todo-list
+git clone https://github.com/mh9rashady/todo-app.git
+cd todo-app
 ```
 
 2. کتابخانه‌های مورد نیاز را نصب کنید:
 ```bash
-pip install numpy matplotlib
+pip install -r requirements.txt
 ```
 
 ## اجرا
@@ -41,7 +41,7 @@ python todo.py
 ## ساختار پروژه
 
 ```
-todo-list/
+todo-app/
 ├── todo.py          # فایل اصلی برنامه
 ├── tasks.csv        # فایل ذخیره کارها
 ├── README.md        # این فایل
@@ -87,10 +87,7 @@ todo-list/
 ## لایسنس
 
 این پروژه برای اهداف آموزشی ایجاد شده است.
-=======
-# todo-app
->>>>>>> 9f442d933bdcccf5bc281da91cf0a6776c0648ba
+
 
 ## قرارگیری در گیت‌هاب
-این پروژه در گیت‌هاب قرار داده شده و می‌توانید آن را از این لینک مشاهده یا دانلود کنید:
-`https://github.com/mh9rashady/todo-app`
+این پروژه در گیت‌هاب قرار داده شده و می‌توانید آن را مشاهده یا دانلود کنید: [مشاهده در گیت‌هاب](https://github.com/mh9rashady/todo-app)
